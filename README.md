@@ -16,3 +16,9 @@ Importante
 Os dados são de treino, sem vínculo com empresas ou projetos oficiais.
 
 Os dashboards são experimentais, criados para desenvolvimento pessoal.
+
+Acompanhe os feedbacks dos meus projetos no linkedin!:
+
+https://www.linkedin.com/posts/gustavo-mendes-117767250_gostaria-de-compartilhar-o-dashboard-que-activity-7254504282756972545-VAZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
+
+https://www.linkedin.com/posts/gustavo-mendes-117767250_gostaria-de-compartilhar-o-dashboard-que-activity-7254504282756972545-VAZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
