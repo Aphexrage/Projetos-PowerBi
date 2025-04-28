@@ -21,4 +21,8 @@ Acompanhe os feedbacks dos meus projetos no linkedin:
 
 https://www.linkedin.com/posts/gustavo-mendes-117767250_gostaria-de-compartilhar-o-dashboard-que-activity-7254504282756972545-VAZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
 
-https://www.linkedin.com/posts/gustavo-mendes-117767250_gostaria-de-compartilhar-o-dashboard-que-activity-7254504282756972545-VAZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
+
+https://www.linkedin.com/posts/gustavo-mendes-117767250_j%C3%A1-viu-um-dashboard-com-visualizador-3d-activity-7272621311959457793-5C4P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
+
+
+https://www.linkedin.com/posts/gustavo-mendes-117767250_mais-um-dashboard-que-montei-seguindo-o-curso-activity-7257093458648068096-ByFs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA
