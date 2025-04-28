@@ -1,1 +1,18 @@
-# Projetos-PowerBi
+# Projetos PowerBi
+
+Este repositório reúne dashboards desenvolvidos como parte do meu processo de estudo e prática em análise de dados e visualização de informações.
+
+Todos os dados utilizados são fictícios ou adaptados exclusivamente para fins de treinamento e aperfeiçoamento técnico. Nenhuma informação aqui representa dados reais ou de uso comercial.
+
+O objetivo principal deste repositório é:
+
+Consolidar conhecimentos em análise de dados;
+
+Aprimorar habilidades na criação de dashboards;
+
+Explorar técnicas de visualização e modelagem de informações.
+
+Importante
+Os dados são de treino, sem vínculo com empresas ou projetos oficiais.
+
+Os dashboards são experimentais, criados para desenvolvimento pessoal.
