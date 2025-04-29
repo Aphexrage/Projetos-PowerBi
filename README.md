@@ -1,5 +1,7 @@
 # Projetos PowerBi
 
+![Dashboard - Unilever UL](https://media.licdn.com/dms/image/v2/D4D22AQHDQO_f0KXR5w/feedshare-shrink_800/feedshare-shrink_800/0/1730225909271?e=1749081600&v=beta&t=AouWcTyNZpwJkgDvTgJTk8Zy-t_H5bmf6hS3R1F5REU)
+
 Este repositório reúne dashboards desenvolvidos como parte do meu processo de estudo e prática em análise de dados e visualização de informações.
 
 Todos os dados utilizados são fictícios ou adaptados exclusivamente para fins de treinamento e aperfeiçoamento técnico. Nenhuma informação aqui representa dados reais ou de uso comercial.
