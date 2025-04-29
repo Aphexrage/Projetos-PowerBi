@@ -1,4 +1,4 @@
-## Projetos PowerBi
+# Projetos PowerBi
 
 ![Dashboard - Unilever UL](https://media.licdn.com/dms/image/v2/D4D22AQHDQO_f0KXR5w/feedshare-shrink_800/feedshare-shrink_800/0/1730225909271?e=1749081600&v=beta&t=AouWcTyNZpwJkgDvTgJTk8Zy-t_H5bmf6hS3R1F5REU)
 
@@ -19,7 +19,7 @@ Os dados são de treino, sem vínculo com empresas ou projetos oficiais.
 
 Os dashboards são experimentais, criados para desenvolvimento pessoal.
 
-# Acompanhe os feedbacks dos meus projetos no linkedin:
+### Acompanhe os feedbacks dos meus projetos no linkedin:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/gustavo-mendes-117767250_gostaria-de-compartilhar-o-dashboard-que-activity-7254504282756972545-VAZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/gustavo-mendes-117767250_j%C3%A1-viu-um-dashboard-com-visualizador-3d-activity-7272621311959457793-5C4P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4MaeMB1MovHnNZjlcKuPB4IugALRD-7JA)
